@@ -20,7 +20,7 @@ Binary ML classification on clinical CKD data using Logistic Regression and Deci
 
 | Records | Features | Missing Values | Task |
 |---------|----------|----------------|------|
-| 20,000 | 35 + 1 target | None | Binary Classification |
+| 21,000 | 35 + 1 target | None | Binary Classification |
 
 ---
 
