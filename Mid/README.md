@@ -1,4 +1,5 @@
-# Chronic Kidney Disease — Binary Classification
+# Predicting Chronic Kidney Disease using Machine Learning Models
+## by: Abbas Shafi (MS Data Science)
 
 Binary ML classification on clinical CKD data using Logistic Regression and Decision Tree with 5-Fold Cross Validation.
 
